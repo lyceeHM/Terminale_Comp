@@ -1,0 +1,15 @@
+jupytext
+plotly==4.5.4
+jupyter
+notebook
+pandas
+statsmodels==0.10.1
+scipy
+numpy
+plotly-geo
+psutil
+requests
+scikit-image
+seaborn
+matplotlib
+scikit-learn
