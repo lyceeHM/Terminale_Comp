@@ -12,4 +12,3 @@ requests
 scikit-image
 seaborn
 matplotlib
-scikit-learn
