@@ -8,6 +8,3 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyceeHM/Terminale_Comp/master)
 
-
-<br> Pour lire une correction se rendre sur : http://htmlpreview.github.io/
-
