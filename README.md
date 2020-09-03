@@ -1,4 +1,6 @@
-<h1>Chapitre 1 : Suites et limites</h1>
+<h1>Terminale Complémentaire</h1>
+<br>
+<h2>Chapitre 1 : Suites et limites</h2>
 
 <blockquote style="border-left: 10px solid black">
   <b>Auteur : </b>Bro Frédéric</b>
