@@ -4,7 +4,7 @@
   <b>Auteur : </b>Bro Frédéric</b>
 </blockquote>
 <br>
-<b>Lien pour exécuter ces notebooks dans mybinder :</b>
+<b>pour exécuter tout le répertoire, cliquer le lien suivant :</b>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyceeHM/Terminale_Comp/master)
 
