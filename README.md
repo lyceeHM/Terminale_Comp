@@ -7,5 +7,5 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyceeHM/Terminale_Comp/master)
 <br>
-<h2>Chapitre 1 : Suites et limites</h2>
+:white_square_button: <b>Chapitre 1 : Suites et limites</b>
 
