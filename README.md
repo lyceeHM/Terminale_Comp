@@ -9,5 +9,7 @@
 
 <br>
 :white_square_button: <b>Liste des chapitres</b>
-<h2>Chapitre 1 : Suites et limites</h2>
+<ul>
+  <li><b>Chapitre 1 : Suites et limites</b></li>
+</ul>
 
